@@ -1,6 +1,6 @@
 # meus-todos
 
-É uma web app de para anotar os afazeres do dia. Os dados são armazenados local storage.
+É uma web app  para anotar os afazeres do dia. Os dados são armazenados local storage.
 
 ## Instalação
 
